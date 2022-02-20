@@ -1,0 +1,17 @@
+https://www.paypal.com/authflow/challenges/sms/?acnw_dep=ul&country.x=SA&ctxId=step_upecf5b9762eac44cf9e738e5d98b3bab0&locale.x=ar_SA&returnUri=%2Fsignin%2Freturn%3FflowFrom%3Danw-stepup%26ctxId%3Dstep_upecf5b9762eac44cf9e738e5d98b3bab0&stepupContext=f0dae7259a489576ef756eed0e10176b
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-msedge",
+            "request": "launch",
+            "name": "Launch Edge against localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+            
+        }
+    ]
+}
