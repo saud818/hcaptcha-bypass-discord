@@ -1,7 +1,7 @@
 from datetime import date, datetime
 import math
 import base64
-import httpx
+import hcapbypass
 import urllib
 import hashlib
 from json import dumps
@@ -10,7 +10,7 @@ import os
 import random
 
 headers = {
-    "Host": "hcaptcha.com",
+    "Host": "paypal.com",
     "Connection": "keep-alive",
     "sec-ch-ua": 'Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92',
     "Accept": "application/json",
