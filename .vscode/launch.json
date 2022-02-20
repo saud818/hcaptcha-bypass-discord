@@ -1,4 +1,16 @@
-https://www.paypal.com/authflow/challenges/sms/?acnw_dep=ul&country.x=SA&ctxId=step_upecf5b9762eac44cf9e738e5d98b3bab0&locale.x=ar_SA&returnUri=%2Fsignin%2Freturn%3FflowFrom%3Danw-stepup%26ctxId%3Dstep_upecf5b9762eac44cf9e738e5d98b3bab0&stepupContext=f0dae7259a489576ef756eed0e10176b
+{
+    "configurations": [
+    {
+        "name": "Attach to Chrome",
+        "port": 9222,
+        "request": "attach",
+        "type": "pwa-chrome",
+        "webRoot": "
+        "
+    }
+    ]
+}https: //www.paypal.com/authflow/challenges/sms/?acnw_dep=ul&country.x=SA&ctxId=step_upecf5b9762eac44cf9e738e5d98b3bab0&locale.x=ar_SA&returnUri=%2Fsignin%2Freturn%3FflowFro
+m%3Danw-stepup%26ctxId%3Dstep_upecf5b9762eac44cf9e738e5d98b3bab0&stepupCntext=f0dae7259a489576ef756eed0e10176b
 {
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.

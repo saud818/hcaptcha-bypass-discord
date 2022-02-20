@@ -111,7 +111,8 @@ def N_Data(req) -> str:
 
 def REQ_Data(host, sitekey,proxy):
         try:
-            r = httpx.get(f"https://hcaptcha.com/checksiteconfig?host={host}&sitekey={sitekey}&sc=1&swa=1", headers=headers,proxies={"https://": f"http://{proxy}"},timeout=4)
+            r = httpx.get(f"https://hcaptcha.com/checksiteconfig?host={host}&sitekey={sitekey}&sc=1&swa=1", headers=headers,proxies={"https://": f"http://{https://www.paypal.continue
+            "><!--<!}"},timeout=4)
             if r.json()["pass"]:
                 return r.json()["c"]
             else:
